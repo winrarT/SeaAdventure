@@ -1,0 +1,18 @@
+{
+  "Cutlass": {
+      "Info": {
+                "name": "Cutlass",
+                "Type": "Weapon",
+                "Rarity": "Common",
+                "Information": "A very popular class of sword that is used by lots of pirates as well as marines."
+              },
+       "Stats": {
+                  "BaseDamage": 10,
+                  "CriticalDamage": 15,
+                  "AttackSpeed": 0.75,
+                  "AttackDelay": 0.25,
+                  "Status": "Bleeding",
+                  "StatusChance": 0.1,
+                 }
+       }
+}
