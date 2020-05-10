@@ -1,1 +1,1 @@
-{"ItemName":"Katana","Type":"Weapon","Rarity":"Common","Information":"A wide-used sword","BaseDamage":10,"CriticalDamage":0.2,"CriticalChance":0.15,"AttackSpeed":1.25,"AttackDelay":0.25,"Status":"Bleeding","StatusChance":0.1}
+{"ItemName":"Katana","Type":"Weapon","Rarity":"Common","Information":"A wide-used sword","BaseDamage":10,"CriticalDamage":0.2,"CriticalChance":0.15,"AttackSpeed":1.25,"AttackDelay":0.25,"Status":"Bleeding","StatusChance":0.1,"Equip":"Multiple"}
